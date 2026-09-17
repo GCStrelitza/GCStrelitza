@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Jogos Digitais e Analista de Dados`**
 
-Me chamo Gabriel Carvalho e Silva, tenho 23 anos e sou de Campinas, São Paulo. Concluí o ensino médio na Etec Bento Quirino, com o curso técnico em Desenvolvimento de Sistemas e me graduei em Jogos Digitais pela PUC-Campinas. Atualmente, estou cursando Ciências de Dados na Anhanguera e MBA em Analise e Ciência de Dados pela USP ESALQ. Tenho um grande interesse na área de tecnologia e atualmente estou participando da criação de um jogo com alguns amgios".
+Me chamo Gabriel Carvalho e Silva, tenho 23 anos e sou de Campinas, São Paulo. Concluí o ensino médio na Etec Bento Quirino, com o curso técnico em Desenvolvimento de Sistemas e me graduei em Jogos Digitais pela PUC-Campinas. Atualmente, estou cursando Ciências de Dados na Anhanguera e MBA em Analise e Ciência de Dados pela USP ESALQ. Tenho um grande interesse na área de tecnologia e atualmente estou participando da criação de um jogo com alguns amgios.
 
 
 ### 🤖 Linguagens e Tecnologias
